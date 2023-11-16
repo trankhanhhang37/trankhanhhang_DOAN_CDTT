@@ -1,0 +1,1 @@
+export const urlImage="http://localhost/khanhang_web/trankhanhhang_laravel/public/image/"
